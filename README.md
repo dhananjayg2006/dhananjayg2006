@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!, My name is Dhananjay Gupta.<br>ML explorer decoding patterns in data.<br>Building models, experimenting with AI, and learning every day.
+I’m a BCA student and aspiring Data Engineer, Data Scientist, and Machine Learning Engineer passionate about turning raw data into powerful insights and intelligent solutions. I enjoy building data pipelines, uncovering patterns, and creating models that solve real-world problems. Always learning, always building — driven to make data work smarter.
 
 
 ## 🌐 Socials:
