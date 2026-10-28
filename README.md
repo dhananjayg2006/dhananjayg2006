@@ -23,7 +23,7 @@
 
 I am a **BCA student** and aspiring **Data Engineer, Data Scientist, and Machine Learning Engineer** passionate about turning raw data into powerful insights and intelligent solutions. 
 
-I enjoy building robust data pipelines, uncovering hidden patterns, and creating machine learning models that solve real-world problems. By focusing heavily on practical application and hands-on projects, I am actively building the exact skills necessary to deliver high-impact solutions for major corporate branches within the German and global tech ecosystems. 
+I enjoy building data pipelines, uncovering patterns, and developing machine learning models to solve real-world problems. Through hands-on projects and practical experimentation, I'm continuously improving my skills in data processing, analysis, and machine learning.
 
 Always learning, always building — I am driven to make data work smarter.
 
