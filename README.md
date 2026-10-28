@@ -8,10 +8,10 @@
     <a href="https://github.com/dhananjayg2006" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://shrikant-portfolio-mu.vercel.app/" target="_blank">
+    <a href="https://dhananjay-portfolio-six.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:inglesp2003@gmail.com">
+    <a href="mailto:dhananjayg2006@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -69,7 +69,7 @@ A comprehensive, web-based examination platform developed using **ASP.NET WebFor
 
 ## 🎓 Education
 
-- **Bachelor of Computer Application (BCA), Computer Science** *Somaiya Schools of Basic and Applied Science* | 2024 – 2027
+- **Bachelor of Computer Application (BCA), Computer Science** *Somaiya Schools of Basic and Applied Sciences* | 2024 – 2027
 - **Higher Secondary Certificate (HSC), Commerce** (75.17%)  
   *Malini Kishor Sanghvi Junior College* | 2022 - 2024
 - **ICSE** (75.40%)  
